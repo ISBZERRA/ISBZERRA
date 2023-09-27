@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @ISBZERRA
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+-- 👀 I'm interested in Front End
+- 🌱 I'm currently learning Html and CSS
+- 📢 I currently work as a marketing analyst
+- Discover my website agenciasociallike.com
+- 📫 How to contact me igorfalange@hotmail.com
 
 <!---
 ISBZERRA/ISBZERRA is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
