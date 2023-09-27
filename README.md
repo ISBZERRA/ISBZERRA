@@ -1,7 +1,7 @@
--- 👀 I'm interested in Front End
+- 👀 I'm interested in Front End
 - 🌱 I'm currently learning Html and CSS
 - 📢 I currently work as a marketing analyst
-- Discover my website agenciasociallike.com
+- 🌏 Discover my website agenciasociallike.com
 - 📫 How to contact me igorfalange@hotmail.com
 
 <!---
